@@ -6,6 +6,7 @@ public class TestCase2 {
 	{
 
 		System.out.println("This is TestCsae 2");
+		System.out.println("Some Code Added");
 
 	}
 
